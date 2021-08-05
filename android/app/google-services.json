@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "895746096554",
+    "project_id": "ezshield-ee4ee",
+    "storage_bucket": "ezshield-ee4ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895746096554:android:9856c633c28e7e90e93fd3",
+        "android_client_info": {
+          "package_name": "com.ezshield.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895746096554-lhleapjroojurna1d2r7dpq6mlkokkp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ezshield.app",
+            "certificate_hash": "5b59e950a4aa2b75c91b836360c8f3d203abd90d"
+          }
+        },
+        {
+          "client_id": "895746096554-vugloke3380ddgmv2qrhhpfojcdcnbb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ezshield.app",
+            "certificate_hash": "1e8ba1c50e67d460c952407b9e36ec9d470895c7"
+          }
+        },
+        {
+          "client_id": "895746096554-6r9esls57a7pqdcbdo3i5u3qj7g6gfiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHfBbR3BxISytTCniY-mbQklZK68k2fT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895746096554-6r9esls57a7pqdcbdo3i5u3qj7g6gfiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
